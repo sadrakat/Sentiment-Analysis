@@ -3,7 +3,7 @@ The project employs the Valence Aware Dictionary and Sentiment Reasoner to evalu
 
 **Prerequisites** 
 
-The PRAW  package must be installed and to perform Sentiment Analysis  we need to install nltk library.
+The PRAW  package must be installed and to perform Sentiment Analysis we need to install nltk library.
 
 **install**
 
