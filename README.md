@@ -7,7 +7,7 @@ The PRAW  package must be installed and to perform Sentiment Analysis we need to
 
 **install**
 
-pip install prav
+pip install praw 
 
 pip install nltk
 
