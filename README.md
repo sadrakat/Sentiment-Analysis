@@ -5,7 +5,7 @@ The project employs the Valence Aware Dictionary and Sentiment Reasoner to evalu
 
 The PRAW  package must be installed and to perform Sentiment Analysis we need to install nltk library.
 
-**install**
+**Install**
 
 pip install praw 
 
@@ -34,10 +34,3 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
 
-
-
-
-
-**Install**
-
-pip install praw
